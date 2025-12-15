@@ -21,8 +21,10 @@ hola, This is **Manoj kumar**, an aspiring **Data Analyst** passionate about tra
 ---
 
 ## 🌐 Connect With Me
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-7b458a25a/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](cmanoj.cmk@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/manooooj_._/)
+
 
 
 ---
