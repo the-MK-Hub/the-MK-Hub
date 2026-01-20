@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-hola, This is **Manoj kumar**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and interactive dashboards that support smart decision-making.
+hola, This is **Manoj here**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and interactive dashboards that support smart decision-making.
 
 ---
 
