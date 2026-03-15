@@ -19,6 +19,16 @@ Hi, I’m **Manoj**, an aspiring **Data Analyst** passionate about transforming 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-6A5ACD?style=plastic&logo=apache%20spark&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=plastic&logo=microsoftpowerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=plastic&logo=microsoftword&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=googlesheets&logoColor=white)
+
 
 ---
 
