@@ -28,6 +28,11 @@ Hi, I’m **Manoj**, an aspiring **Data Analyst** passionate about transforming 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=plastic&logo=microsoftpowerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=plastic&logo=microsoftword&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=googlesheets&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Power%20Query](https://img.shields.io/badge/Power%20Query-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=plastic&logo=powerbi&logoColor=black)
+
 
 
 ---
