@@ -1,15 +1,17 @@
-## 👋 About Me
+# 👋 About Me
 
-hola, This is **Manoj here**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and interactive dashboards that support smart decision-making.
+Hi, I’m **Manoj**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and interactive dashboards that support smart decision-making.
 
 ---
 
 ## 🚀 What I'm Working On
-- 📊 Building interactive dashboards using Power BI  
-- 🧹 Cleaning and analyzing datasets using SQL  
-- 📈 Exploring data visualization techniques  
-- 📚 Continuously learning BI tools and analytics concepts  
 
+- 📊 Building interactive dashboards using Power BI and Tableau  
+- 🧹 Cleaning and analyzing datasets using SQL and Excel  
+- 📈 Exploring data visualization techniques and best practices  
+- 📚 Strengthening foundations in statistics and analytical thinking  
+- 🧠 Applying these skills on real datasets like Adventure Works, CRM data, and domain-based      mini projects
+  
 ---
 
 ## 👨‍💻 Tech Stack
@@ -29,4 +31,8 @@ hola, This is **Manoj here**, an aspiring **Data Analyst** passionate about tran
 ---
 
 ## 📂 Featured Projects
-- 📌 **Adventure Works Analytics Dashboard** – Sales & Profit analysis using Excel, Power BI, SQL, and Tableau
+
+- 📌 **Adventure Works Analytics Dashboard** – Sales & profit analysis using Excel, Power BI, SQL, and Tableau  
+- 📌 **CRM Analytics (SQL)** – Customer behavior and campaign performance analysis using SQL 
+- 📌 **Hospital SQL Joins Mini Project** – Relational joins to analyze patients, doctors, and visits in a hospital schema  
+- 📌 **AdventureWorks SQL CTE Mini Project** – Advanced SQL using CTEs and window functions on Internet Sales data
